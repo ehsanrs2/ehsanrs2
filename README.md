@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsanrs2&show_icons=true&theme=tokyonight)
 <!--
 **ehsanrs2/ehsanrs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
