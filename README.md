@@ -1,5 +1,10 @@
 ### Hi there 👋
 ![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsanrs2&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ehsanrs2&theme=tokyonight)](https://git.io/streak-stats)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ehsanrs2&&style=flat-square" align="center" />
+</div>
+
 <!--
 **ehsanrs2/ehsanrs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
