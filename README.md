@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsanrs2&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ehsanrs2&theme=tokyonight)](https://git.io/streak-stats)
 <div align="center">
